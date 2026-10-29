@@ -9,4 +9,5 @@ Red colour fruits :
 7.  Cranberry
 8.  Red Plum
 9.  Blood Orange
+10. Red Currant
 
