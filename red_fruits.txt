@@ -10,4 +10,5 @@ Red colour fruits :
 8.  Red Plum
 9.  Blood Orange
 10. Red Currant
+11. Lychee
 
