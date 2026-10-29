@@ -8,3 +8,5 @@ Red colour fruits :
 6.  Watermelon
 7.  Cranberry
 8.  Red Plum
+9.  Blood Orange
+
