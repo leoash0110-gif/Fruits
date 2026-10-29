@@ -2,4 +2,5 @@ Red colour fruits :
 
 1.  Apple
 2.  Strawberry
+3.  Cherry
 
