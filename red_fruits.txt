@@ -6,3 +6,4 @@ Red colour fruits :
 4.  Raspberry
 5.  Pomegranate
 6.  Watermelon
+7.  Cranberry
