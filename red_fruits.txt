@@ -5,4 +5,4 @@ Red colour fruits :
 3.  Cherry
 4.  Raspberry
 5.  Pomegranate
-
+6.  Watermelon
